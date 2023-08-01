@@ -26,7 +26,7 @@ author: ZoeGrey86
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://zoegrey86.github.io/LoveShackPress/'
-baseurl: '/feeling-responsive'
+baseurl: '/index'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -38,7 +38,7 @@ improve_content: https://github.com/ZoeGrey86/LoveShackPress/issues
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://github.com/ZoeGrey86/LoveShackPress/images/'
 
 
 # Logo size is 600x80 pixels
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: ZoeGrey86    # Default author for posts
 
 
 
